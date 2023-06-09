@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 751 6-firstdirectory
+chmod 751 0x00-shell_basics/6-firstdirectory
